@@ -1,13 +1,5 @@
 const { Schema, model} = require("mongoose");
 const mongoose = require("../config/connection");
-const bycrpt = require("bycrpt");
-
-// check for password
-class User extends model {
-    checkPassword(loginPw) {
-        return bycrpt.compareSync(loginPw, this.password);
-    }
-}
 
 const UserSchema = new Schema(
     {
