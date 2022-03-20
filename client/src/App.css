@@ -32,3 +32,16 @@ a{
      width: 32%;
      padding: 5px;
    }
+
+  
+   .home-card{
+     max-width: 500px;
+     height: max-content;
+     margin: 26px auto;
+   }
+
+   #toast-container{
+     top: 30px ;
+     right:20px !important;
+     left: auto !important;
+   }
