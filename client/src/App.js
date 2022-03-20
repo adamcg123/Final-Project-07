@@ -6,6 +6,7 @@ import Home  from './components/Home';
 import Signin from './components/Signin';
 import Profile from './components/Profile';
 import Signup from './components/Signup';
+import CreatePost from './components/CreatePost';
 
 
 
@@ -29,6 +30,10 @@ function App(){
 
     <Route path="/profile">
     <Profile/>
+    </Route>
+
+    <Route path="/create">
+    <CreatePost/>
     </Route>
 
 
