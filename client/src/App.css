@@ -17,31 +17,44 @@ a{
   max-width: 400px;
   margin: 10px auto;
 }
-/* label underline focus color */
-   .input-field input[type=text]:focus {
-     border-bottom: 1px solid rgb(8, 93, 252) !important;
-     box-shadow: 0 1px 0 0 rgb(8, 93, 252)!important ;
-   }
 
-   .gallery{
-     display: flex;
-     flex-wrap: wrap;
-     justify-content: space-around;
-   }
-   .item{
-     width: 32%;
-     padding: 5px;
-   }
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid rgb(8, 93, 252) !important;
+  box-shadow: 0 1px 0 0 rgb(8, 93, 252)  !important;
+}
+.input-field input[type=password]:focus {
+  border-bottom: 1px solid rgb(8, 93, 252) !important;
+  box-shadow: 0 1px 0 0 rgb(8, 93, 252)  !important;
+}
 
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item{
+  width: 30%;
+}
+
+.home-card{
+  max-width: 500px;
+  height: max-content;
+  margin: 26px auto;
   
-   .home-card{
-     max-width: 500px;
-     height: max-content;
-     margin: 26px auto;
-   }
+}
+.collection-item{
+  width: 100%;
+}
 
-   #toast-container{
-     top: 30px ;
-     right:20px !important;
-     left: auto !important;
-   }
+
+#toast-container{
+  top:30px !important;
+  right: 20px !important;
+  left: auto !important;
+}
+
+
+.material-icons:hover{
+  cursor: pointer;
+}
