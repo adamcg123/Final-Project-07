@@ -31,11 +31,14 @@ const Signin = () =>{
                }
               else{
                   M.toast({html:data.message,classes:"#004d40 teal darken-4"})
-                  history.push('./Signin.js')
+                  history.push('/signin')
               }
+            }).catch(err=>{
+                console.log(err);
             })
 
     }
+
     return(
      <div className='mycard'>
           <div className="card auth-card input-field ">
