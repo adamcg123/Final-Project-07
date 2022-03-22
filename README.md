@@ -29,6 +29,9 @@ To use this and test this product on your own machine, you must first clone to r
 ## Usage
 View the deployed application [Here]()
 
+Screenshot of the Camera Cast startup page:
+![screenshot]()
+
 
 ## Contribution
 This project was made by Group 7 and contains references and material learned in the University of Minnesota Web Dev Bootcamp.
@@ -45,4 +48,4 @@ If you have any questions on this application, feel free to reach us through our
 * Adam - [adamcg123](https://github.com/adamcg123), [Adam's E-mail](adam.gondorchin26@gmail.com)
 
 
-### ©️2022 Made with you in mind, Project 3 Group 7 ❤️
+### ©️2022 Made with you in mind, Group 7 ❤️
