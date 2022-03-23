@@ -1,18 +1,19 @@
 {
-  "name": "final-project",
+  "name": "final-project-07",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "directories": {
-    "test": "test"
-  },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamcg123/Final-Project-07.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.3",
-    "mongoose": "^6.2.6"
-  }
+  "bugs": {
+    "url": "https://github.com/adamcg123/Final-Project-07/issues"
+  },
+  "homepage": "https://github.com/adamcg123/Final-Project-07#readme"
 }
