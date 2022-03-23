@@ -14,7 +14,12 @@ Camera Cast is a simple web application that allows user to share photos with th
 ## Built With
 * HTML
 * JavaScript
-* CSS
+* CSS 
+* Materialize-css
+* React JS
+* Node JS
+* Insomia
+
 
 
 ## Installation/Personal Workstation Use
