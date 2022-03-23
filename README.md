@@ -35,7 +35,7 @@ To use this and test this product on your own machine, you must first clone to r
 View the deployed application [Here]()
 
 Screenshot of the Camera Cast startup page:
-![screenshot](./client/public/Screenshot 2022-03-23 172218.png)
+![screenshot](./client/public/Screenshot.jpg)
 
 
 ## Contribution
