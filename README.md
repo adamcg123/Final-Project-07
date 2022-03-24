@@ -21,15 +21,15 @@ Camera Cast is a simple web application that allows user to share photos with th
 * Insomia
 
 
-
 ## Installation/Personal Workstation Use
-To use this and test this product on your own machine, you must first clone to repository to your local drive. Next, run NPM Init and and install the following packages.
+To use and test this product on your own machine, you must first clone to repository to your local drive. Next, run NPM Init and and install the following packages.
 
 * bcrypt
 * express
 * mongoose
 * nodemon
 
+After the packages are installed, run NPM start and navigate to http://localhost:3001/
 
 ## Usage
 View the deployed application [Here]()
