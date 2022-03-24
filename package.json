@@ -4,11 +4,20 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "npm start app.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+    "start": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamcg123/Final-Project-07"
+  },
+
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamcg123/Final-Project-07/issues"
+  },
+
+  "homepage": "https://github.com/adamcg123/Final-Project-07#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
