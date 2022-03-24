@@ -32,10 +32,10 @@ To use and test this product on your own machine, you must first clone to reposi
 After the packages are installed, run NPM start and navigate to http://localhost:3001/
 
 ## Usage
-View the deployed application [Here]()
+View the deployed application [Here](https://camera-casst.herokuapp.com/signin)
 
 Screenshot of the Camera Cast startup page:
-![screenshot](./client/public/Screenshot.jpg)
+![screenshot](./client/public/camera_cast.png)
 
 
 ## Contribution
