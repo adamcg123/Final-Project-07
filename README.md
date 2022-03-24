@@ -38,7 +38,7 @@ After the packages are installed, run NPM start and navigate to http://localhost
 View the deployed application [HERE](https://camera-casst.herokuapp.com/signin)
 
 
-Below is screenshot of the Camera Cast sign-in page:
+Below is a screenshot of the Camera Cast sign-in page:
 
 ![screenshot](./client/public/camera_cast.png)
 
