@@ -44,7 +44,7 @@ Below is a screenshot of the Camera Cast sign-in page:
 
 
 ## Contribution
-This project was made by Group 7 and contains references and material learned in the University of Minnesota Web Dev Bootcamp.
+This project was made by Group 7 and contains references and material learned in the University of Minnesota Full Stack Web Development Bootcamp.
 
 * No Contributions are being accepted at this time.
 
