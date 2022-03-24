@@ -1,29 +1,19 @@
 {
-  "name": "server",
+  "name": "final-project-07",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adamcg123/Final-Project-07"
+    "url": "git+https://github.com/adamcg123/Final-Project-07.git"
   },
-
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/adamcg123/Final-Project-07/issues"
   },
-
-  "homepage": "https://github.com/adamcg123/Final-Project-07#readme",
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.7",
-    "nodemailer": "^6.4.6",
-    "nodemailer-sendgrid-transport": "^0.2.0"
-  }
+"homepage": "https://github.com/adamcg123/Final-Project-07/login"
 }
