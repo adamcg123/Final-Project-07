@@ -18,7 +18,7 @@ const SignIn  = ()=>{
         data.append("file",image)
         data.append("upload_preset","camera-cast")
         data.append("cloud_name","zmc")
-        fetch("https://api.cloudinary.com/v1_1/cnq/image/upload",{
+        fetch("https://api.cloudinary.com/v1_1/zmc/image/upload",{
             method:"post",
             body:data
         })
@@ -71,7 +71,7 @@ const SignIn  = ()=>{
    return (
       <div className="mycard">
           <div className="card auth-card input-field">
-            <h2>Instagram</h2>
+            <h2>Camera Cast</h2>
             <input
             type="text"
             placeholder="name"
