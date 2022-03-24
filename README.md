@@ -1,7 +1,7 @@
 # Camera Cast
 
 ## Description
-Camera Cast is a simple web application that allows user to share photos with their friends and followers. They also have the ability to like or dislikes photo's that others post, as well as give feedback via comments.
+Camera Cast is a simple web application that allows user to share photos with their friends and followers. They also have the ability to like or dislikes photo's that others post and make comments. The user can also upload a profile picture and see the number of followers and following they have.
 
 
 ## Table of Contents
